@@ -37,8 +37,8 @@
   <a href="mailto:yazeedasmar4@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="http://yazeedasmar.github.io/my_portofolio/" target="_blank">
-    <img alt="Portfolio" src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white](https://yazeedasmar.github.io/my_portofolio/)" />
+   <a href="http://yazeedasmar.github.io/my_portofolio/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
